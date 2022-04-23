@@ -1,6 +1,6 @@
 # Project 9 - Pentesting Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -42,6 +42,3 @@ Description: I tried different ID= and I found that after the number 10 (ID=10) 
 <img src="red-vuln1.gif">
 
 
-## Notes
-
-Describe any challenges encountered while doing the work
